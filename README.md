@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**AnneRuo/AnneRuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anne Ruohonen and I am an application consultant, payroll and HR system key user and a helpdesk person. 
 
-Here are some ideas to get you started:
+I am also passionate about learning new things. Two years ago on a whim I enrolled in a Python course and I was completely hooked after my first ‘Hello, World’.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### :seedling: What have I learnt during two years?
+- [x] HTML
+- [x] CSS
+- [x] Bootstrap
+- [x] JavaScript
+- [x] jQuery
+- [x] some basics of React
+- [x] a little bit of PHP
+- [x] basics of Python
+- [x] some AI, RPA and Machine Learning stuff
+- [x] I’m not gonna be a game developer
+
+#### :star2: This is what I am focusing on now:
+- [ ] get a routine to use GitHub
+- [ ] improve my React skills 
+- [ ] learn TypeScript
+- [ ] learn GraphQL
+- [ ] start Full Stack open 2021
+
+#### What would I like to do in the future?
+🚀 Start my new career as a developer.
+
+##### Fun fact:
+🐴 I also signed up for a horseback riding course a year ago on a whim. It is also super nice and I couldn’t stop riding after the course either but I’m not going to become a professional rider.
