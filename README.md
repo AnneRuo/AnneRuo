@@ -9,6 +9,7 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 - [x] CSS
 - [x] Bootstrap
 - [x] JavaScript
+- [x] Java
 - [x] jQuery
 - [x] some basics of React
 - [x] a little bit of PHP
