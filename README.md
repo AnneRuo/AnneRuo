@@ -14,6 +14,7 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 - [x] React
 - [x] a little bit of PHP
 - [x] basics of Python
+- [x] MySQL/MariaDB
 - [x] some AI, RPA and Machine Learning stuff
 - [x] I’m not gonna be a game developer
 
