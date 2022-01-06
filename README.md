@@ -18,6 +18,9 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 - [x] some AI, RPA and Machine Learning stuff
 - [x] I’m not gonna be a game developer
 
+#### 💼 Check also my portfolio at
+https://anneruo.github.io/
+
 #### :star2: This is what I am focusing on now:
 - [ ] improve my React skills 
 - [ ] continue with Full Stack open 2021
