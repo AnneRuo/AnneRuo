@@ -11,18 +11,15 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 - [x] JavaScript
 - [x] Java
 - [x] jQuery
-- [x] some basics of React
+- [x] React
 - [x] a little bit of PHP
 - [x] basics of Python
 - [x] some AI, RPA and Machine Learning stuff
 - [x] I’m not gonna be a game developer
 
 #### :star2: This is what I am focusing on now:
-- [ ] get a routine to use GitHub
 - [ ] improve my React skills 
-- [ ] learn TypeScript
-- [ ] learn GraphQL
-- [ ] start Full Stack open 2021
+- [ ] continue with Full Stack open 2021
 
 #### What would I like to do in the future?
 🚀 Start my new career as a developer.
