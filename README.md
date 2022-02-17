@@ -22,11 +22,10 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 https://anneruo.github.io/
 
 #### :star2: This is what I am focusing on now:
-- [ ] improve my React skills 
-- [ ] continue with Full Stack open 2021
+- [ ] improve my JavaScript and React skills
+- [ ] finish my information technology studies at HAMK
 
 #### What would I like to do in the future?
 🚀 Start my new career as a developer.
 
-##### Fun fact:
-🐴 I also signed up for a horseback riding course a year ago on a whim. It is also super nice and I couldn’t stop riding after the course either but I’m not going to become a professional rider.
+
