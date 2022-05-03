@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-My name is Anne Ruohonen and I am an application consultant, payroll and HR system key user and a helpdesk person. 
+My name is Anne Ruohonen and I am a System & Implementation Specialist and a NetSuite developer in the beginning of my new career. 
+Three years ago on a whim I enrolled in a Python course and I was completely hooked after my first ‘Hello, World’.
 
-I am also passionate about learning new things. Two years ago on a whim I enrolled in a Python course and I was completely hooked after my first ‘Hello, World’.
-
-#### :seedling: What have I learnt during two years?
+#### :seedling: What have I learnt during these years?
 - [x] HTML
 - [x] CSS
 - [x] Bootstrap
@@ -18,14 +17,11 @@ I am also passionate about learning new things. Two years ago on a whim I enroll
 - [x] some AI, RPA and Machine Learning stuff
 - [x] I’m not gonna be a game developer
 
-#### 💼 Check also my portfolio at
-https://anneruo.github.io/
-
 #### :star2: This is what I am focusing on now:
-- [ ] improve my JavaScript and React skills
+- [ ] improve my JavaScript and SuiteScript skills
 - [ ] finish my information technology studies at HAMK
 
 #### What would I like to do in the future?
-🚀 Start my new career as a developer.
+🚀 To become a JavaScript master and develop into a better NetSuite developer.
 
 
